@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/018d032e-bdcc-46a2-b9b6-ae3a35e39648.svg)](https://wakatime.com/@018d032e-bdcc-46a2-b9b6-ae3a35e39648)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
