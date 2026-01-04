@@ -1,64 +1,93 @@
-<!-- Intro  -->
+<a href="https://wakatime.com/@018d032e-bdcc-46a2-b9b6-ae3a35e39648"><img src="https://wakatime.com/badge/user/018d032e-bdcc-46a2-b9b6-ae3a35e39648.svg" /></a>
+
+<a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abusik019&theme=radical" width="100%"/>
+</a>
+</p>
+
+<a>
+    <a href="https://github.com/abusik019">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abusik019&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>   
+    <a href="https://github.com/abusik019">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abusik019&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="48.5%"/>
+    </a>   
+</a>
+<hr>
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 1,708 hrs 57 mins
+
+Python                     1,510 hrs 34 mins██████████████████████░░░   88.39 %
+YAML                       44 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+HTML                       28 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JavaScript                 18 hrs 48 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TOML                       15 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+```
+
+<!--END_SECTION:waka-->
+
+<hr>
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Abuzhapar Gasanbekov</b>
+        <samp>&gt; Hello There!, I am
+                <b>Abu Gasanbekov.</b>
         </samp>
 </h3>
-
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a frontend  developer 」
-    <br>
-    <br>
-  </samp>
-</p>
+<hr>
 
 <p align="center">
- <a href="https://web.telegram.org/k/#@gsnbkv_a" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/gasanbekov_a_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://vk.com/skywalker_sw" target="_blank">
-  <img src="https://img.shields.io/badge/Vkontakte-20BEFF?&style=for-the-badge&logo=vk&logoColor=white" alt="Abusik"  />
-  </a> 
-</p>
-<br />
+    <a href="mailto:abusroyale@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/> <a href="https://discordapp.com/users/710168278680600687/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"><a/> <a href="https://t.me/gsnbkv_a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a/>
+<p/>
 
-<br/>
-<br/>
-<br/>
+## 💻 Technology Stack
 
-## Use To Code
+> Tools and technologies that I have worked with and am interested in
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### 🌐 Frontend
+
+| JavaScript | HTML | CSS | Sass | TailwindCSS | React | Next.js | Redux | Ant Design | Webpack | Vite | Babel |
+|------------|------|-----|------|-------------|-------|---------|-------|------------|---------|------|-------|
+| ![JS](https://skillicons.dev/icons?i=js) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Sass](https://skillicons.dev/icons?i=sass) | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![React](https://skillicons.dev/icons?i=react) | ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![Redux](https://skillicons.dev/icons?i=redux) | <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48"/> | ![Webpack](https://skillicons.dev/icons?i=webpack) | ![Vite](https://skillicons.dev/icons?i=vite) | ![Babel](https://skillicons.dev/icons?i=babel) |
+
+---
+
+### 🧠 Backend
+
+| Node.js | Express | Nginx |
+|---------|---------|-------|
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express](https://skillicons.dev/icons?i=express) | ![Nginx](https://skillicons.dev/icons?i=nginx) |
+
+---
+
+### 🐳 DevOps & Infrastructure
+
+| Docker  | Linux | Git | GitHub |
+|--------|--------|-----|--------|
+| ![Docker](https://skillicons.dev/icons?i=docker) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
+
+---
+
+### 🗄️ Databases
+
+| PostgreSQL | MongoDB |
+|------------|----------|
+| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongo) | 
+
+---
+
+### ✅ Testing
+
+| Postman | Jest |
+|--------|----|
+| ![Postman](https://skillicons.dev/icons?i=postman) | ![Postman](https://skillicons.dev/icons?i=jest) |
 
 
-<hr/>
-<br/>
 
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abusik019&theme=radical" alt="Abusik's GitHub Contribution"/>
-  </a>
-</p>
+<hr>
 
-<a> 
-    <a href="https://github.com/Abusik019"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abusik019&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Abusik019"><img alt="Abusik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abusik019&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<img src="assets/code.gif" width="100%"/>
+
