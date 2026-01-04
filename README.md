@@ -49,7 +49,7 @@ TOML                       15 hrs 25 mins  ▒░░░░░░░░░░░�
 
 ### 🌐 Frontend
 
-| JavaScript | HTML | CSS | Sass | TailwindCSS | React | Next.js | Redux | Ant Design | Webpack | Vite | Babel |
+| JavaScript | HTML | CSS | Sass | Tailwind | React | Next.js | Redux | Ant Design | Webpack | Vite | Babel |
 |------------|------|-----|------|-------------|-------|---------|-------|------------|---------|------|-------|
 | <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=redux" width="48" height="48"/> | <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=vite" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=babel" width="48" height="48"/> |
 
@@ -59,7 +59,7 @@ TOML                       15 hrs 25 mins  ▒░░░░░░░░░░░�
 
 | Node.js | Express | Nginx |
 |---------|---------|-------|
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express](https://skillicons.dev/icons?i=express) | ![Nginx](https://skillicons.dev/icons?i=nginx) |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48"/> |
 
 ---
 
@@ -67,7 +67,7 @@ TOML                       15 hrs 25 mins  ▒░░░░░░░░░░░�
 
 | Docker  | Linux | Git | GitHub |
 |--------|--------|-----|--------|
-| ![Docker](https://skillicons.dev/icons?i=docker) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
+| <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/> |
 
 ---
 
@@ -75,7 +75,7 @@ TOML                       15 hrs 25 mins  ▒░░░░░░░░░░░�
 
 | PostgreSQL | MongoDB |
 |------------|----------|
-| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![MongoDB](https://skillicons.dev/icons?i=mongo) | 
+| <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48"/> | 
 
 ---
 
@@ -83,7 +83,7 @@ TOML                       15 hrs 25 mins  ▒░░░░░░░░░░░�
 
 | Postman | Jest |
 |--------|----|
-| ![Postman](https://skillicons.dev/icons?i=postman) | ![Postman](https://skillicons.dev/icons?i=jest) |
+| <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/> | <img src="https://skillicons.dev/icons?i=jest" width="48" height="48"/> |
 
 
 
