@@ -16,9 +16,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-186.58%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-186.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -34,11 +34,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 4 mins        ████████████████░░░░░░░░░   62.09 % 
-SCSS                     1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               37 mins             █████████████░░░░░░░░░░░░   52.59 % 
+SCSS                     21 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
+YAML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -54,7 +54,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 02:01:42 UTC
+ Last Updated on 06/01/2026 01:52:26 UTC
 <!--END_SECTION:waka-->
 
 <hr>
