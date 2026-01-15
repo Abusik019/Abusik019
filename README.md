@@ -16,7 +16,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-186.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -34,7 +34,9 @@
 
 ```text
 💬 Programming Languages: 
-Go                       35 mins             █████████████████████████   100.00 % 
+Go                       1 hr 16 mins        ██████████████████████░░░   89.70 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -50,7 +52,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2026 01:56:49 UTC
+ Last Updated on 15/01/2026 01:52:10 UTC
 <!--END_SECTION:waka-->
 
 <hr>
