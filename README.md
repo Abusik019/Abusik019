@@ -32,8 +32,7 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     25 mins             █████████████████░░░░░░░░   66.12 % 
-CSS                      13 mins             ████████░░░░░░░░░░░░░░░░░   33.88 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -49,7 +48,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 01:55:53 UTC
+ Last Updated on 29/01/2026 02:09:57 UTC
 <!--END_SECTION:waka-->
 
 <hr>
