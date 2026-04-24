@@ -16,39 +16,32 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%208%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-🌆 Daytime                164 commits         ███████████████░░░░░░░░░░   59.64 % 
-🌃 Evening                76 commits          ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+🌞 Morning                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+🌆 Daytime                189 commits         ██████████████░░░░░░░░░░░   56.08 % 
+🌃 Evening                106 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            █████████████░░░░░░░░░░░░   52.17 % 
-TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JavaScript               11 repos            █████████████░░░░░░░░░░░░   52.38 % 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 03/02/2026 02:24:23 UTC
+ Last Updated on 24/04/2026 13:55:42 UTC
 <!--END_SECTION:waka-->
 
 <hr>
