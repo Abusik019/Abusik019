@@ -16,18 +16,6 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2012%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-🌆 Daytime                196 commits         ██████████████░░░░░░░░░░░   56.00 % 
-🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-```
-
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +29,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 04:00:06 UTC
+ Last Updated on 18/05/2026 04:12:48 UTC
 <!--END_SECTION:waka-->
 
 <hr>
