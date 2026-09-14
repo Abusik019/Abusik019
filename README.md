@@ -35,7 +35,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <hr>
 <h3 align="center">
         <samp>&gt; Hello There!, I am
-                <b>Abu Gasanbekov.</b>
+                <b>Abuzhapar Gasanbekov.</b>
         </samp>
 </h3>
 <hr>
